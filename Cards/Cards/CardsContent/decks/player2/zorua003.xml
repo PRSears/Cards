@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PokemonXML.XMLCard">
+    <AssetName>bw\70-zorua</AssetName>
+    <CardTitle>zorua</CardTitle>
+    <EvolvesFrom>none</EvolvesFrom>
+    <Health>60</Health>
+    <CardKind>pokemon</CardKind>
+    <CardColor>black</CardColor>
+    <Weakness>brown</Weakness>
+    <Resistance>purple</Resistance>
+    <Stage>0</Stage>
+    <AttackIDs>0</AttackIDs>
+    <AbilityID>0</AbilityID>
+    <RetreatCost>1</RetreatCost>
+  </Asset>
+</XnaContent>

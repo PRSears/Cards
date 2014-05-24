@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PokemonXML.XMLCard">
+    <AssetName>bw\6-serperior</AssetName>
+    <CardTitle>serperior</CardTitle>
+    <EvolvesFrom>servine</EvolvesFrom>
+    <Health>130</Health>
+    <CardKind>pokemon</CardKind>
+    <CardColor>green</CardColor>
+    <Weakness>red</Weakness>
+    <Resistance>blue</Resistance>
+    <Stage>2</Stage>
+    <AttackIDs>0</AttackIDs>
+    <AbilityID>0</AbilityID>
+    <RetreatCost>1</RetreatCost>
+  </Asset>
+</XnaContent>

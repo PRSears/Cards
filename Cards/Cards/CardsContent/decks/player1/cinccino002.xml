@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PokemonXML.XMLCard">
+    <AssetName>bw\89-cinccino</AssetName>
+    <CardTitle>cinccino</CardTitle>
+    <EvolvesFrom>minccino</EvolvesFrom>
+    <Health>90</Health>
+    <CardKind>pokemon</CardKind>
+    <CardColor>colorless</CardColor>
+    <Weakness>brown</Weakness>
+    <Resistance>none</Resistance>
+    <Stage>0</Stage>
+    <AttackIDs>0</AttackIDs>
+    <AbilityID>0</AbilityID>
+    <RetreatCost>1</RetreatCost>
+  </Asset>
+</XnaContent>

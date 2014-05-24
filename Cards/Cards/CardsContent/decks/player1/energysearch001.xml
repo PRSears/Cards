@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PokemonXML.XMLCard">
+    <AssetName>bw\93-energy-search</AssetName>
+    <CardTitle>energy search</CardTitle>
+    <EvolvesFrom>none</EvolvesFrom>
+    <Health>1</Health>
+    <CardKind>trainer</CardKind>
+    <CardColor>none</CardColor>
+    <Weakness>none</Weakness>
+    <Resistance>none</Resistance>
+    <Stage>0</Stage>
+    <AttackIDs>0</AttackIDs>
+    <AbilityID>0</AbilityID>
+    <RetreatCost>0</RetreatCost>
+  </Asset>
+</XnaContent>

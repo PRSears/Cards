@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="PokemonXML.XMLCard">
+    <AssetName>bw\105-grass-energy</AssetName>
+    <CardTitle>grass energy</CardTitle>
+    <EvolvesFrom>none</EvolvesFrom>
+    <Health>1</Health>
+    <CardKind>energy</CardKind>
+    <CardColor>green</CardColor>
+    <Weakness>none</Weakness>
+    <Resistance>none</Resistance>
+    <Stage>0</Stage>
+    <AttackIDs>0</AttackIDs>
+    <AbilityID>0</AbilityID>
+    <RetreatCost>0</RetreatCost>
+  </Asset>
+</XnaContent>
